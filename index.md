@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Blog
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+title: Machine Learning Blog
 ---
 
 Hello.
+
+
+[Supervised Learning](pages/supervised_learning.html)
+
+[Federated Learning](pages/federated_learning.html)
