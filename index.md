@@ -3,9 +3,6 @@ layout: page
 title: Machine Learning Blog
 ---
 
-Hello.
-
+[Federated learning and privacy](pages/federated_learning.html)
 
 [Supervised Learning](pages/supervised_learning.html)
-
-[A Question about Federated learning](pages/federated_learning.html)
