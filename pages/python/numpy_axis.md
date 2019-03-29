@@ -33,7 +33,7 @@ array([[ 1.5, 10.5],
        [ 5.5, 14.5]])
 ```
 
-_Note: A tuple of list is treated the same as a list of list._
+_Note: A tuple of lists is treated the same as a list of lists._
 
 ```
 d = [a,b,c]
