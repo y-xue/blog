@@ -11,9 +11,14 @@ If `b` is a 2D matrix, axis 0 is the first dimension (the "rows") and axis 1 is 
 
 
 ```
-a = [[1,2],[10,11]]
-b = [[3,4],[12,13]]
-c = [[5,6],[14,15]]
+>>> a = [[1,2],[10,11]]
+>>> b = [[3,4],[12,13]]
+>>> c = [[5,6],[14,15]] 
+
+# The following also works if a,b,c are numpy arrays.
+>>> np.array(c)
+array([[ 5,  6],
+       [14, 15]])
 
 >>> np.mean((a,b,c))
 8.0
