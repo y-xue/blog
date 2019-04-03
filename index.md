@@ -8,3 +8,5 @@ title: Machine Learning Blog
 [Supervised Learning](pages/supervised_learning.html)
 
 [Python](pages/python/python_pages_index.html)
+
+[Ray](pages/ray/ray_pages_index.html)
